@@ -7,4 +7,4 @@ bash train.sh
 # inference
 bash inference.sh
 
-最后的结果在./save/result_post.json
+待完善……
